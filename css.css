@@ -1,0 +1,121 @@
+main{
+    font-family:'Anonymous Pro', monospace;
+}
+
+.palavra{
+    text-decoration: none;
+    color: black;
+}
+
+#container{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+#img_conteiner{
+    width: 500px;
+    margin-left: 190px;
+}
+
+.images img{
+    width: 50px;
+}
+
+#vitoria img{
+    width: 250px;
+}
+
+#portifolio_container{
+    display: flex;
+    margin-top: 40px;
+}
+
+.images{
+    margin-left: 120px;
+}
+
+.images h2, .images p{
+    text-align: center;
+}
+
+.palavra{
+    margin-left: 20px;
+}
+
+#palavras{
+    margin-left: 44px;
+}
+
+/*-----------------curriculo vitoria-----------------*/
+#curriculo_vi{
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+}
+    
+#title{
+font-family:'Dubai', sans-serif;
+    font-size: 30px;
+      line-height: 1.5;
+      font-weight: bold;
+}
+
+#personal{
+    font-family:'Dubai', sans-serif;
+    font-size: 15px;
+  
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+    
+    
+#Quaifications{
+    font-family:'Dubai', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: left;
+    margin-top: 15px
+}
+
+ #title2{
+    font-family:'Dubai', sans-serif;
+    font-size: 19px;
+    text-align: left;
+    margin-top: 15px
+}
+
+section{
+    padding: 20px;
+    margin: 20px 0;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
+}
+
+#title2 img{
+    width: 600px;
+}
+
+#curriculo_nick{
+    text-align: center;
+    padding: 10px 0;
+    background: #356ba1;
+    color: #fff;
+    border-radius: 0px 0px 40px 40px;
+}
+
+/*------------------- PAGINA DO PROJETO --------------------*/
+#main_container{
+    margin-left: 60px;
+    margin-top: 30px;
+}
